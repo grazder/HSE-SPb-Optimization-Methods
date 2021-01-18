@@ -11,8 +11,20 @@ Task:
     
 ## Homework 2. Logistic Regression
 Task: 
-
-    Implement Logistic Regression with folowing methods:
-    1) Gradient Descent
-    2) Newton's Method
-    3) Hessian-free Newton's Method
+    
+    1. Implement Logistic Regression's oracle.
+    2. Difference gradient and hessian validation
+    3. Implement folowing Line Search methods:
+        a) Armijo
+        b) Wolfe
+        c) Brent
+        d) Golden Section
+        e) Nesterov
+    4. Implement Logistic Regression using Gradient Descent
+    5. Implement Logistic Regression using Newton's Method (with Cholesky method)
+    6. Implement Logistic Regression using Hessian-free Newton's Method (with conjugate gradient method)
+    7. Compare methods
+    
+    Sources: 
+    http://www.machinelearning.ru/wiki/images/6/6b/MO17_practice1.pdf
+    http://www.machinelearning.ru/wiki/images/6/63/MO17_practice2.pdf
