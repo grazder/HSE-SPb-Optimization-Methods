@@ -2,7 +2,6 @@
 My homework solutions for Optimization Methods
 
 ## Homework 1. 1-D Optimization
-Task:
 
     Given function with oracle: value and derivative. Task is to find function minimum.
     
@@ -10,9 +9,8 @@ Task:
     Numerical Recipies - One-Dimensional Search with First Derivatives.
     
 ## Homework 2. Logistic Regression
-Task: 
     
-    1. Implement Logistic Regression's oracle.
+    1. Implement Logistic Regression's oracle
     2. Difference gradient and hessian validation
     3. Implement folowing Line Search methods:
         a) Armijo
@@ -27,4 +25,12 @@ Task:
     
     Sources: 
     http://www.machinelearning.ru/wiki/images/6/6b/MO17_practice1.pdf
+    http://www.machinelearning.ru/wiki/images/6/63/MO17_practice2.pdf
+    
+ # Homework 3. L-BFGS
+    
+    1. Implement L-BFGS for Logistic Regression
+    2. Compare L-BFGS with Newton's and Hessian-free Newton's Methods
+ 
+    Sources:
     http://www.machinelearning.ru/wiki/images/6/63/MO17_practice2.pdf
